@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gestor de tareas</string>
+    <string name="titulo_tarea">Crear nueva tarea</string>
+    <string name="desc_tareas">Las tareas se ordenan por la fecha registrada.</string>
+    <string name="t_pendientes">Pendientes</string>
+    <string name="t_completadas">Completadas</string>
+    <string name="t_atrasadas">Atrasadas</string>
+</resources>
